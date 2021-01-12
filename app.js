@@ -1,5 +1,4 @@
-// IIFE to create a module
-// Data module
+
 var budgetController = (function () {
 
     var Expense = function (id, description, value) {
