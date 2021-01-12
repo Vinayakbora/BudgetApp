@@ -1,6 +1,4 @@
-/**********************************************
-*** GENERAL
-**********************************************/
+
 
 * {
     margin: 0;
@@ -27,9 +25,7 @@ body {
 .red { color: #FF5049 !important; }
 .red-focus:focus { border: 1px solid #FF5049 !important; }
 
-/**********************************************
-*** TOP PART
-**********************************************/
+
 
 .top {
     height: 40vh;
@@ -108,11 +104,7 @@ body {
 }
 
 
-/**********************************************
-*** BOTTOM PART
-**********************************************/
 
-/***** FORM *****/
 .add {
     padding: 14px;
     border-bottom: 1px solid #e7e7e7;
@@ -175,7 +167,7 @@ body {
 
 .add__btn:focus { outline: none; }
 
-/***** LISTS *****/
+
 .container {
     width: 1000px;
     margin: 60px auto;
