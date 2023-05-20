@@ -15,5 +15,6 @@ Technologies Used:
 1. JavaScript
 2. HTML
 3. CSS
-4. Bootstrap
+4. Bootstrap \n
+
 Click here [BUDGET APP](https://vinayakbora.github.io/BudgetApp/)
